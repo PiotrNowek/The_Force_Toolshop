@@ -1,13 +1,14 @@
 # The_Force_Toolshop - Force in API and UI testing
 
 ## About the project
-Description will be soon
+Welcome to the ultimate challenge in the world of API and web UI testing! My mission: to explore and test the Toolshop e-commerce galaxy using Pytest and the powerful Selenium framework. Join me on this journey where we leave no bug unchallenged.
 
 ## Goal
 Description will be soon
 
 ## Features
-Description will be soon
+- **Selenium WebDriver**: My hyperdrive for navigating through the Toolshop website, ensuring I interact with every element as intended.
+- **Pytest**: The Force that makes our tests as strong and reliable as Master Yoda.
 
 ## How to Run
 Description will be soon
